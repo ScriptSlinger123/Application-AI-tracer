@@ -169,11 +169,6 @@ When `OPENAI_API_KEY` is set, the backend calls an OpenAI-compatible chat API (`
 | `frontend/` | `npm run dev` | Vite dev server |
 | `frontend/` | `npm run build` | Production build |
 
-## Security notes
-
-- Never commit `.env` files or service role keys.
-- RLS is enabled on tables; the backend uses the service role and enforces ownership in application code.
-- Rotate `JWT_SECRET` for production.
 
 ## Troubleshooting
 
