@@ -16,6 +16,10 @@ AI-powered job application tracker: browse jobs, apply, track pipeline status, a
 - **Active Dashboard with Stats**
   ![Dashboard with Stats](screenshots/Job_application_tracer_dashboard.png)
 
+  ### Jobs list
+- **Jobs List**
+  ![Jobs List](screenshots/Jobs_lists.png)
+
 ### Applications
 - **Applications List**
   ![Applications List](screenshots/application1.png)
