@@ -2,6 +2,10 @@
 
 This is a demo AI-powered job application tracker: browse jobs, apply, track pipeline status, and use AI for cover letters, CV improvements, and job-fit scoring.
 
+see how the demo works create an account and apply and track your application:
+
+ https://application-ai-tracer.vercel.app/
+
 ## Screenshots
 
 ### Login & Registration
@@ -32,9 +36,6 @@ This is a demo AI-powered job application tracker: browse jobs, apply, track pip
 
   ## Live Demo
 
-see how the demo works create an account and aplly and track your application:
-
- https://application-ai-tracer.vercel.app/
 
 
 ## Architecture
