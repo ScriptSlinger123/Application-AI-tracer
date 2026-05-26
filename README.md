@@ -2,6 +2,31 @@
 
 AI-powered job application tracker: browse jobs, apply, track pipeline status, and use AI for cover letters, CV improvements, and job-fit scoring.
 
+## Screenshots
+
+### Login & Registration
+- **Login Page**
+  ![Login Page](screenshots/loggin_page.png)
+- **Registration Page**
+  ![Registration Page](screenshots/register_page.png)
+
+### Dashboard
+- **Empty Dashboard**
+  ![Empty Dashboard](screenshots/Jobtracer_Dashboard.png)
+- **Active Dashboard with Stats**
+  ![Dashboard with Stats](screenshots/Job_application_tracer_dashboard.png)
+
+### Applications
+- **Applications List**
+  ![Applications List](screenshots/application1.png)
+
+### Job Details & AI Assistant
+- **AI Assistant (Cover Letter Demo)**
+  ![AI Assistant Cover Letter](screenshots/application2_AI_generating_coverletter.png)
+- **AI Assistant (Job Fit Score Demo)**
+  ![AI Assistant Job Fit](screenshots/application3_job_fit_score.png)
+
+
 ## Architecture
 
 | Layer | Stack |
