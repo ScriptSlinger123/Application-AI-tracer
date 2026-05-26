@@ -24,10 +24,10 @@ AI-powered job application tracker: browse jobs, apply, track pipeline status, a
 - **Applications List**
   ![Applications List](screenshots/application1.png)
 
-### Job Details & AI Assistant
-- **AI Assistant (Cover Letter Demo)**
+### Job Details & AI Assistant add openai api key for real ai generation
+- **AI Assistant (Cover Letter Demo add openai api key for real ai generation)**
   ![AI Assistant Cover Letter](screenshots/application2_AI_generating_coverletter.png)
-- **AI Assistant (Job Fit Score Demo)**
+- **AI Assistant (Job Fit Score Demo add openai api key for real ai generation)**
   ![AI Assistant Job Fit](screenshots/application3_job_fit_score.png)
 
 
