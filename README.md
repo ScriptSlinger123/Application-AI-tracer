@@ -1,6 +1,6 @@
 # Job Application Tracer
 
-AI-powered job application tracker: browse jobs, apply, track pipeline status, and use AI for cover letters, CV improvements, and job-fit scoring.
+This is a demo AI-powered job application tracker: browse jobs, apply, track pipeline status, and use AI for cover letters, CV improvements, and job-fit scoring.
 
 ## Screenshots
 
@@ -29,6 +29,12 @@ AI-powered job application tracker: browse jobs, apply, track pipeline status, a
   ![AI Assistant Cover Letter](screenshots/application2_AI_generating_coverletter.png)
 - **AI Assistant (Job Fit Score Demo add openai api key for real ai generation)**
   ![AI Assistant Job Fit](screenshots/application3_job_fit_score.png)
+
+  ## Live Demo
+
+see how the demo works create an account and aplly and track your application:
+
+ https://application-ai-tracer.vercel.app/
 
 
 ## Architecture
